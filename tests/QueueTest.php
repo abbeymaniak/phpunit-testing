@@ -33,6 +33,8 @@ class QueueTest extends TestCase
         $this->assertEquals('green', $item);
     }
 
+
+    //Below is for the procedural process
     //     public function testAnItemIsRemovedFromTheFrontOfTheQueue()
     //     {
     //         $this->queue->push('first');
